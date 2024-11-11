@@ -1,2 +1,2 @@
 # unit
-university tracker for the command line
+university tracker in your terminal
